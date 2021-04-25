@@ -12,3 +12,6 @@ If you want to contact me the best way would be to join my Discord here 💬`htt
 
 ### 📌 How can I contribute to a project?
 If you would like to contribute to one of my projects or suggest an idea feel free to message me with your ideas or submit a pull request and I will take a look.
+
+### 📃 Current Projects
+- `Pexe`: A executable format for Python to package a list of dependencies and your code, pexe will take care of the rest
