@@ -1,3 +1,4 @@
+![LogoBanner](https://raw.githubusercontent.com/IWickGames/IWickGames/main/IWickBanner.svg)
 ### Welcome to my profile 👋
 
 ### 📣 About me
