@@ -1,5 +1,5 @@
 ![LogoBanner](https://raw.githubusercontent.com/IWickGames/IWickGames/main/IWickBanner.svg)
-### Welcome to my profile 👋
+# Welcome to my profile 👋
 
 ### 📣 About me
 My name is `IWick` and I am a hobbie programmer and computer science person, I like to program random things and if I make something I think is usefull I will upload it here. I am also into cybersecurity and malware analysis.
