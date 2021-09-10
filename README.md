@@ -2,7 +2,7 @@
 # Welcome to my profile 👋
 
 ### 📣 About me
-I am a hobbie programmer and computer science person, I like to program random things and if I make something I think is usefull I will upload it here. I am also into cybersecurity and malware analysis.
+I am a hobbie programmer and computer science person, I like to program random things and if I make something that I think is useful I will upload it here. I am also into cybersecurity and malware analysis.
 
 ### 🖊 What I program in
 My favorite languages are Python, C#, C++, C. I have done lots of Python projects, recently picked up C# and C was my first programming language.
