@@ -5,7 +5,7 @@
 I am a hobbie programmer and computer science person, I like to program random things and if I make something that I think is useful I will upload it here. I am also into cybersecurity and malware analysis.
 
 ### 🖊 What I program in
-My favorite languages are Python, C#, C++, C. I have done lots of Python projects, recently picked up C# and C was my first programming language.
+My favorite languages are Python, Go, C#, C++, C. I have done lots of Python projects, recently picked up C# and C was my first programming language.
 
 ### 📩 Contact
 If you want to contact me the best way would be to join my Discord here 💬`https://discord.com/invite/w2Afaur` or by email 📨`contact@iwick.dev`. I try to keep my DM's open and respond when I can.
