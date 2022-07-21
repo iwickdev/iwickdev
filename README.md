@@ -12,6 +12,3 @@ If you want to contact me the best way would be to join my Discord here 💬 htt
 
 ### 📌 How can I contribute to a project?
 If you would like to contribute to one of my projects or suggest an idea feel free to message me with your ideas or submit a pull request and I will take a look.
-
-### 📃 Current Projects
-- `Pexe`: A format to pack a requirements list and your python code into a zip file that then can be executed by the Pexe framework to make it easy to package python programs to be run anywhere
